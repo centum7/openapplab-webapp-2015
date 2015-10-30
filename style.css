@@ -1,0 +1,22 @@
+header{
+  position: fixed;
+  height:50px;
+  width: 100%;
+  background-color: orange;
+  color: white;
+  opacity: 0.5;
+}
+
+
+.absolute {
+  position: absolute;
+  top: 15px;
+  left: 150px;
+  width: 150px;
+}
+.main_image {
+  vertical-align: middle;
+}
+/*.relative {
+  position: relative;
+}*/
